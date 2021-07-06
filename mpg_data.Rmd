@@ -1,5 +1,5 @@
 ---
-title: "Motor Trend MPG Data Analysis"
+title: "MPG against Transmission Data Analysis"
 author: "Dom Foord"
 date: "July 06, 2021"
 output: pdf_document
